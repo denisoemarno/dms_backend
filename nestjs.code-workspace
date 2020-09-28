@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/nestjs-sample-master"
+		},
+		{
+			"path": "../../Downloads/MyAPI-master"
+		}
+	],
+	"settings": {
+		"deno.enable": false
+	}
+}
